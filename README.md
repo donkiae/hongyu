@@ -52,3 +52,10 @@ courseController.addCourse('Super Mom Western Recipes', 'SM301', 'Mom guide on w
 - courseController.getAllCourses();
 ```
 -----------------------------------------------------------------------
+
+## References
+- Lab 2
+- Lab 5
+- StackOverflow
+- Learn Coding(Youtube)
+
